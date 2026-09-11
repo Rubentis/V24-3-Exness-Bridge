@@ -1,4 +1,4 @@
-# v243_bridge.py
+# app.py
 # Minimal webhook receiver for TradingView V24.3 and polling endpoint for MT5.
 # Deploy on any public HTTPS host. Keep TOKEN secret.
 
